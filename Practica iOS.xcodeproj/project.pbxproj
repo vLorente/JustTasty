@@ -21,7 +21,6 @@
 		173044D21FFC1495006EC19C /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 173044D11FFC1495006EC19C /* MainViewController.swift */; };
 		176AC5491FFE9E2F00149F72 /* PuntuacionEstrellas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176AC5481FFE9E2F00149F72 /* PuntuacionEstrellas.swift */; };
 		17C2F3D52009079A00827F4F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 17C2F3D42009079A00827F4F /* GoogleService-Info.plist */; };
-		17C2F3D720090FF500827F4F /* NUEVOViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C2F3D620090FF500827F4F /* NUEVOViewController.swift */; };
 		2DD581661A1EDE0C6EE8B61D /* Pods_Practica_iOSUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBC352AE95DC10A53CCA1417 /* Pods_Practica_iOSUITests.framework */; };
 		50C851AEC8AB997BBDE7941B /* Pods_Practica_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 90D5D8C462EFB8E5350E5555 /* Pods_Practica_iOS.framework */; };
 		63460F988789D08DCF461BAC /* Pods_Practica_iOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C543B4DEBCF3588E2415838 /* Pods_Practica_iOSTests.framework */; };
@@ -66,7 +65,6 @@
 		173044D11FFC1495006EC19C /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		176AC5481FFE9E2F00149F72 /* PuntuacionEstrellas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuntuacionEstrellas.swift; sourceTree = "<group>"; };
 		17C2F3D42009079A00827F4F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
-		17C2F3D620090FF500827F4F /* NUEVOViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NUEVOViewController.swift; sourceTree = "<group>"; };
 		276034C3C6198AFBC6955306 /* Pods-Practica iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Practica iOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-Practica iOS/Pods-Practica iOS.release.xcconfig"; sourceTree = "<group>"; };
 		4C543B4DEBCF3588E2415838 /* Pods_Practica_iOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Practica_iOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A1A5CF4599F3B3358A14793 /* Pods-Practica iOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Practica iOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Practica iOSTests/Pods-Practica iOSTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -210,7 +208,6 @@
 				171CE4E01FFCAC16000B53C2 /* DetalleViewController.swift */,
 				171CE4E21FFCACB6000B53C2 /* CatalogoTableViewController.swift */,
 				176AC5481FFE9E2F00149F72 /* PuntuacionEstrellas.swift */,
-				17C2F3D620090FF500827F4F /* NUEVOViewController.swift */,
 			);
 			path = Controladores;
 			sourceTree = "<group>";
@@ -524,7 +521,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17C2F3D720090FF500827F4F /* NUEVOViewController.swift in Sources */,
 				171CE4E11FFCAC16000B53C2 /* DetalleViewController.swift in Sources */,
 				176AC5491FFE9E2F00149F72 /* PuntuacionEstrellas.swift in Sources */,
 				1730449F1FFC1311006EC19C /* AppDelegate.swift in Sources */,

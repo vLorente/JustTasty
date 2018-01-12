@@ -2,30 +2,16 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "logox1.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "sertv.png",
+      "filename" : "logox2.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "scale" : "3x"
-    },
-    {
-      "idiom" : "iphone",
-      "filename" : "sertv-2.png",
-      "scale" : "1x"
-    },
-    {
-      "idiom" : "iphone",
-      "filename" : "sertv-1.png",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "iphone",
-      "filename" : "sertv-3.png",
       "scale" : "3x"
     }
   ],
